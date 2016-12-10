@@ -1,12 +1,11 @@
 # Bluetooth tank demo
 
-<table>
-    <tr>
-        <td><img alt="screenshot" src="screenshot.png"></td>
-        <td>Hello table test</td>
-    </tr>
-</table>
+This is the basic demo using [bluetoothtank] library.
 
-## something else
+![screenshot](screenshot.png)
 
-More test
+## Usage
+
+Clone with `--recursive` because it uses git submodules.
+
+[bluetoothtank]: https://github.com/aaronps/bluetoothtank
