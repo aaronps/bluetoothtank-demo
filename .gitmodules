@@ -1,0 +1,3 @@
+[submodule "bluetoothtank"]
+	path = bluetoothtank
+	url = https://github.com/aaronps/bluetoothtank
